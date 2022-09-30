@@ -10,7 +10,7 @@
 
 O projeto tem como objetivo mostar uma página de e-commerce de café. 
 
-
+ 
 ## Preview
 Interface do usuário.
 </br>
